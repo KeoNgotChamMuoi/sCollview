@@ -9,7 +9,6 @@ Dự án bao gồm 2 phần chính:
 ---
 
 ## 📂 Cấu trúc dự án
-```text
 ScrollViewxSpringboot/
 ├── gungame/            # Source code Backend (Spring Boot)
 ├── scrollview/         # Source code Frontend (Unity Project)
@@ -43,7 +42,6 @@ Dữ liệu súng được lưu tạm trên RAM (In-Memory List), tắt server s
 -   Nhấn nút Play trên Unity Editor.
 
 ### 📡 Danh sách API (API Documentation)
-
 | Method | Endpoint | Mô tả | Body mẫu (JSON) |
 | :--- | :--- | :--- | :--- |
 | `GET` | `/api/guns` | Lấy danh sách súng | _N/A_ |

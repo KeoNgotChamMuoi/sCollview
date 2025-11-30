@@ -1,0 +1,14 @@
+# --- Rác hệ điều hành (Mac/Windows) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Rác IDE (Khi mở từ thư mục gốc) ---
+.idea/
+.vscode/
+*.code-workspace
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.swp

@@ -9,11 +9,12 @@ Dự án bao gồm 2 phần chính:
 ---
 
 ## 📂 Cấu trúc dự án
+```text
 ScrollViewxSpringboot/
 ├── gungame/            # Source code Backend (Spring Boot)
 ├── scrollview/         # Source code Frontend (Unity Project)
 └── README.md           # File hướng dẫn này
-
+```
 🛠 Yêu cầu cài đặt (Prerequisites)
 Để chạy được dự án, máy tính cần cài sẵn:
 -   Java Development Kit (JDK): Phiên bản 17 trở lên.
